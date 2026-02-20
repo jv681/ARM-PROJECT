@@ -1,4 +1,4 @@
-# 🚗 Real-Time Road Anomaly Detection using Edge AI on Raspberry Pi
+#  Real-Time Road Anomaly Detection using Edge AI on Raspberry Pi
 
 <div align="center">
 
@@ -17,6 +17,10 @@
 </div>
 
 ---
+
+## 🎥 Demo Video
+
+[▶️ Watch Demo Video](demo_final.mp4)
 
 ## 📌 Project Overview
 
